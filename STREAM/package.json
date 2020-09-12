@@ -28,7 +28,7 @@
     "magnet2torrenturl": "^2.1.3",
     "mkdirp": "^0.5.1",
     "myts-api": "^0.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "parse-torrent": "^6.1.2",
     "peer-wire-swarm": "^0.12.2",
     "range-parser": "^1.2.1",
